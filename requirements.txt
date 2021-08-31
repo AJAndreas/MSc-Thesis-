@@ -1,0 +1,14 @@
+ta
+EMD-signal
+pyhht
+hurst
+pytrends
+itertools
+utils 
+helper_funcs
+pytrends 
+numpy
+pandas
+torch
+sklearn
+matplotlib
