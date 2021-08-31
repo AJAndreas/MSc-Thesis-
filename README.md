@@ -11,4 +11,5 @@ Thea aim of this project was to incorporate Data Assimilation and Machine Learni
 
 The data used in this project was kindly provided by Bloomberg L.P. and is their sole property.
 
-### In this repository you will find my report, powerpoint presentation slides and several notebooks, across which my work is divided.
+# Work
+In this repository you will find my report, powerpoint presentation slides and several notebooks, across which my work is divided.
